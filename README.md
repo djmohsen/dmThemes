@@ -1,9 +1,10 @@
-# ZestyTheme
+# 🍊 TangyTheme
 
-A minimal and elegant theme for Jellyfin based on/inspired by [Ultrachromic](https://github.com/CTalvio/Ultrachromic), [Glassmorphism](https://github.com/alexyle/jellyfin-theme), [Scyfin](https://github.com/loof2736/scyfin), [JellyTheme](https://github.com/alexyle/jellyfin-theme) & [Zombie](https://github.com/MakD/zombie-release/tree/main).
+A minimal and elegant theme for Jellyfin forked from stpnwf's [ZestyTheme](https://github.com/stpnwf/ZestyTheme).
 
-**Now with two login wallpaper options: minimal and stylish!**<br>
-Compatible with 10.11+ & Tablets!
+  
+
+**My goal for this fork is to unify and enhance some styling for my own personal UI/UX preferences wherever I can.**
 
 ---
 
@@ -308,3 +309,7 @@ This is a comparison between the minimal(default) and stylish versions of the lo
  Make it so there is no "overflowing" entries in Genres after I increased Poster size
 
 <img src="./images/genres.jpg" alt="genres" width="65%"/>
+
+**AI Usage:**
+
+This is a fun side-project for me and way to make my Jellyfin experience better. AI was used in the development of my changes to ZestyTheme and I tried to only use it for refactoring, code completions, and to digest and modify the existing framework built up by stpnwf rather than fully "vibe-coding" all of my updates and changes. I know it can be a controversial topic on the utilization of AI in code, but this is CSS theming and not some critical infra that agents autonomously wrote without code review. Just want to be transparent about it's usage as a tool solely intended to make my life while developing this theme easier.
