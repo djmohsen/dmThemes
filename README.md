@@ -22,7 +22,7 @@ A minimal and elegant theme for Jellyfin forked from stpnwf's [ZestyTheme](https
 To add the theme to Jellyfin `v10.11+`, copy the following line to Dashboard > Branding² > Custom CSS:
 
 ```
-@import url('https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/theme.css');
+@import url('https://cdn.jsdelivr.net/gh/jpereira99/TangyTheme@latest/theme.css');
 ```
 
 Here are the additional plugins that I use in Jellyfin, please refer to each respective GitHub page for instillation instructions
