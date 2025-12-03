@@ -4275,7 +4275,7 @@ imgLogoIcon {
 	margin: 0
 }
 
-/* I DONT REALLY REMEMBER WHERE THESE ARE FROM MAKE SURE TO CHECK AND LABEL PROPERLY BEFORE COMMITTING */
+/* HOMESCREEN CARDS */
 .cardText.cardTextCentered.cardText-first {
     font-weight: 700;
 }
@@ -4284,6 +4284,7 @@ imgLogoIcon {
 	font-style: italic;
 }
 
+/* BUTTONS */
 .raised.emby-button {
 	border-radius: var(--rounding-large) !important;
 }
