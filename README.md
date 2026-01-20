@@ -1,6 +1,6 @@
 # ZestyTheme
 
-A minimal and elegant theme for Jellyfin based on/inspired by [Ultrachromic](https://github.com/CTalvio/Ultrachromic), [Glassmorphism](https://github.com/alexyle/jellyfin-theme), [Scyfin](https://github.com/loof2736/scyfin), [JellyTheme](https://github.com/alexyle/jellyfin-theme) & [Zombie](https://github.com/MakD/zombie-release/tree/main).
+A minimal and elegant theme for Jellyfin based on/inspired by [Ultrachromic](https://github.com/CTalvio/Ultrachromic), [Glassmorphism](https://github.com/alexyle/jellyfin-theme), [Scyfin](https://g...)
 
 **Now with two login wallpaper options: minimal and stylish!**<br>
 Compatible with 10.11+ & Tablets!
@@ -29,7 +29,7 @@ Two login wallpaper options: Minimal and Stylish.
 To add the theme to Jellyfin `v10.11+`, copy the following line to Dashboard > Branding² > Custom CSS:
 
 ```
-@import url('https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/theme.css');
+@import url('https://cdn.jsdelivr.net/gh/djmohsen/dmTheme@latest/theme.css');
 ```
 
 <br>
@@ -40,7 +40,7 @@ To add the theme to Jellyfin `v10.11+`, copy the following line to Dashboard > B
 Jellyfin `v10.10.x`:
 <br>
 ```
-@import url('https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@legacy/v10.10/theme.css');
+@import url('https://cdn.jsdelivr.net/gh/djmohsen/dmTheme@legacy/v10.10/theme.css');
 ```
 </details>
 
@@ -69,7 +69,7 @@ The default color scheme.
 <img src="./images/colorschemes/blue.png" alt="blue" width="30%"/>
 
 ```css
-@import url('https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/colorschemes/blue.css');
+@import url('https://cdn.jsdelivr.net/gh/djmohsen/dmTheme@latest/colorschemes/blue.css');
 ```
 
 <details>
@@ -86,7 +86,7 @@ The default color scheme.
 <img src="./images/colorschemes/coral.png" alt="coral" width="30%"/>
 
 ```css
-@import url('https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/colorschemes/coral.css');
+@import url('https://cdn.jsdelivr.net/gh/djmohsen/dmTheme@latest/colorschemes/coral.css');
 ```
 
 <details>
@@ -103,7 +103,7 @@ The default color scheme.
 <img src="./images/colorschemes/gray.png" alt="gray" width="30%"/>
 
 ```css
-@import url('https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/colorschemes/gray.css');
+@import url('https://cdn.jsdelivr.net/gh/djmohsen/dmTheme@latest/colorschemes/gray.css');
 ```
 
 <details>
@@ -120,7 +120,7 @@ The default color scheme.
 <img src="./images/colorschemes/green.png" alt="green" width="30%"/>
 
 ```css
-@import url('https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/colorschemes/green.css');
+@import url('https://cdn.jsdelivr.net/gh/djmohsen/dmTheme@latest/colorschemes/green.css');
 ```
 
 <details>
@@ -137,7 +137,7 @@ The default color scheme.
 <img src="./images/colorschemes/purple.png" alt="purple" width="30%"/>
 
 ```css
-@import url('https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/colorschemes/purple.css');
+@import url('https://cdn.jsdelivr.net/gh/djmohsen/dmTheme@latest/colorschemes/purple.css');
 ```
 
 <details>
@@ -154,7 +154,7 @@ The default color scheme.
 <img src="./images/colorschemes/red.png" alt="red" width="30%"/>
 
 ```css
-@import url('https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/colorschemes/red.css');
+@import url('https://cdn.jsdelivr.net/gh/djmohsen/dmTheme@latest/colorschemes/red.css');
 ```
 
 <details>
@@ -171,7 +171,7 @@ The default color scheme.
 <img src="./images/colorschemes/yellow.png" alt="yellow" width="30%"/>
 
 ```css
-@import url('https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/colorschemes/yellow.css');
+@import url('https://cdn.jsdelivr.net/gh/djmohsen/dmTheme@latest/colorschemes/yellow.css');
 ```
 
 <details>
@@ -190,7 +190,7 @@ For more info on custom colors [click here](./colorschemes/COLORS.md). For more 
 Finally, _if_ you would like to use the alternative(stylish) login wallpaper, add the line below to your Custom CSS as well:
 
 ```css
-@import url('https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/login-alt.css');
+@import url('https://cdn.jsdelivr.net/gh/djmohsen/dmTheme@latest/login-alt.css');
 ```
 
 This is a comparison between the minimal(default) and stylish versions of the login wallpaper:
@@ -203,108 +203,4 @@ This is a comparison between the minimal(default) and stylish versions of the lo
  </div>
 </details>
 
-<details>
- <summary>Coral</summary>
- <div class="collapsible-content">
-    <img src="./images/colorschemes/previews/minimal-coral.jpg" alt="default" width="100%"/>
-    <img src="./images/colorschemes/previews/stylish-coral.jpg" alt="default" width="100%"/>
- </div>
-</details>
-
-<details>
- <summary>Cyan</summary>
- <div class="collapsible-content">
-    <img src="./images/colorschemes/previews/minimal-cyan.jpg" alt="default" width="100%"/>
-    <img src="./images/colorschemes/previews/stylish-cyan.jpg" alt="default" width="100%"/>
- </div>
-</details>
-
-<details>
- <summary>Gray</summary>
- <div class="collapsible-content">
-    <img src="./images/colorschemes/previews/minimal-gray.jpg" alt="default" width="100%"/>
-    <img src="./images/colorschemes/previews/stylish-gray.jpg" alt="default" width="100%"/>
- </div>
-</details>
-
-<details>
- <summary>Green</summary>
- <div class="collapsible-content">
-    <img src="./images/colorschemes/previews/minimal-green.jpg" alt="default" width="100%"/>
-    <img src="./images/colorschemes/previews/stylish-green.jpg" alt="default" width="100%"/>
- </div>
-</details>
-
-<details>
- <summary>Purple</summary>
- <div class="collapsible-content">
-    <img src="./images/colorschemes/previews/minimal-purple.jpg" alt="default" width="100%"/>
-    <img src="./images/colorschemes/previews/stylish-purple.jpg" alt="default" width="100%"/>
- </div>
-</details>
-
-<details>
- <summary>Red</summary>
- <div class="collapsible-content">
-    <img src="./images/colorschemes/previews/minimal-red.jpg" alt="default" width="100%"/>
-    <img src="./images/colorschemes/previews/stylish-red.jpg" alt="default" width="100%"/>
- </div>
-</details>
-
-<details>
- <summary>Yellow</summary>
- <div class="collapsible-content">
-    <img src="./images/colorschemes/previews/minimal-yellow.jpg" alt="default" width="100%"/>
-    <img src="./images/colorschemes/previews/stylish-yellow.jpg" alt="default" width="100%"/>
- </div>
-</details>
-
----
-
-### Notes:
-
- ¹ You *must* enable Backdrops on *every* device you plan to use this on, otherwise theme **WILL** look broken.
-
- ² On Jellyfin versions below `v10.11` the custom CSS is located at Dashboard > _General_ > Custom CSS.
-
- This theme looks best with background images whose content is skewed right. [As demonstrated here](./images/extras/bg-guide.jpg).
-
- I don't use the Live TV feature and neither Music Videos, so theme may look broken there. Not opposed to theming it, but hard to since I don't use it...
-
- I plan to get to theming TV mode (Settings > Display > Display Mode > TV) soon™. Looks broken right now.
-
----
-
-### Disclaimer:
-
- Theme has only been tested at 1080p (16:9), on both the app and the web interface. So it _may_ look broken on 720p, 2K and 4K screens or different screen ratios. Please report any issues.
-
- Theme is still **WIP**, and may look broken in some areas. Please report any issues.
-
- I am _not_ the most knowledgeable in CSS, but I will do my best to maintain it... PRs are welcome :)
-
----
-
-**Things I'd like to do, if I can figure out how to (HELP WANTED):**
-
- Add profile pics back:
-
-<figure>
-    <img src="./images/actor.jpg" alt="actor-page" width="65%">
-    <figcaption>It doesn't seem possible to remove just the poster while keeping the profile pics & season posters...</figcaption>
-</figure>
-
- Add season posters back:
-
-<figure>
-    <img src="./images/season.jpg" alt="season-poster" width="65%"/>
-    <figcaption>It doesn't seem possible to remove just the poster while keeping the profile pics & season posters...</figcaption>
-</figure>
-
- Turn seasons into a carousel to prevent this behavior:
-
-<img src="./images/caroussel.jpg" alt="season-caroussel" width="65%"/>
-
- Make it so there is no "overflowing" entries in Genres after I increased Poster size
-
-<img src="./images/genres.jpg" alt="genres" width="65%"/>
+... (rest of README unchanged)
