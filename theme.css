@@ -1,4 +1,4 @@
-@import url("https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/colorschemes/cyan.css");
+@import url("https://cdn.jsdelivr.net/gh/djmohsen/dmThemes@latest/colorschemes/cyan.css");
 @import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap");
 body,
 h1,
@@ -2784,13 +2784,13 @@ fieldset {
 
 /* replaces Jellyfin logo */
 .adminDrawerLogo img {
-    content: url(https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/images/logo/jellyfin-logo-light.png) !important;
+    content: url(https://cdn.jsdelivr.net/gh/djmohsen/dmThemes@latest/images/logo/jellyfin-logo-light.png) !important;
 }
 imgLogoIcon {
-    content: url(https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/images/logo/jellyfin-logo-light.png) !important;
+    content: url(https://cdn.jsdelivr.net/gh/djmohsen/dmThemes@latest/images/logo/jellyfin-logo-light.png) !important;
 }
 .pageTitleWithLogo {
-    background-image: url(https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/images/logo/jellyfin-logo-light.png) !important;
+    background-image: url(https://cdn.jsdelivr.net/gh/djmohsen/dmThemes@latest/images/logo/jellyfin-logo-light.png) !important;
 } /* imgur link https://i.imgur.com/wHaGTm4.png */
 
 /* fixes issue with Movies > Genres hover boxes */
